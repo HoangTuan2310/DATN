@@ -43,7 +43,4 @@ public class Agent : MonoBehaviour
         agentAnimations.RotateToPointer(lookDirection);
         agentAnimations.PlayAnimation(MovementInput);
     }
-
-    
-
 }

@@ -22,14 +22,28 @@ public class PrefabPlacer : MonoBehaviour
                     100,
                     placementData.enemySize,
                     false
-                    );
+                );
+
                 if (possiblePlacementSpot.HasValue)
                 {
+                    GameObject enemy = CreateObject(
+                        placementData.enemyPrefab,
+                        possiblePlacementSpot.Value + new Vector2(0.5f, 0.5f)
+                    );
 
-                    placedObjects.Add(CreateObject(placementData.enemyPrefab, possiblePlacementSpot.Value + new Vector2(0.5f, 0.5f))); //Instantiate(placementData.enemyPrefab,possiblePlacementSpot.Value + new Vector2(0.5f, 0.5f), Quaternion.identity)
+                    if (enemy != null)
+                    {
+                        placedObjects.Add(enemy);
+
+                        if (EnemyManager.Instance != null)
+                        {
+                            EnemyManager.Instance.RegisterEnemy(enemy);
+                        }
+                    }
                 }
             }
         }
+
         return placedObjects;
     }
 
@@ -37,32 +51,37 @@ public class PrefabPlacer : MonoBehaviour
     {
         List<GameObject> placedObjects = new List<GameObject>();
 
-        IEnumerable<ItemPlacementData> sortedList = new List<ItemPlacementData>(itemPlacementData).OrderByDescending(placementData => placementData.itemData.size.x * placementData.itemData.size.y);
+        IEnumerable<ItemPlacementData> sortedList =
+            new List<ItemPlacementData>(itemPlacementData)
+            .OrderByDescending(placementData =>
+                placementData.itemData.size.x * placementData.itemData.size.y);
 
         foreach (var placementData in sortedList)
         {
             for (int i = 0; i < placementData.Quantity; i++)
             {
                 Vector2? possiblePlacementSpot = itemPlacementHelper.GetItemPlacementPosition(
-                    placementData.itemData.placementType, 
-                    100, 
-                    placementData.itemData.size, 
-                    placementData.itemData.addOffset);
-
+                    placementData.itemData.placementType,
+                    100,
+                    placementData.itemData.size,
+                    placementData.itemData.addOffset
+                );
 
                 if (possiblePlacementSpot.HasValue)
                 {
-
-                    placedObjects.Add(PlaceItem(placementData.itemData, possiblePlacementSpot.Value));
+                    placedObjects.Add(
+                        PlaceItem(placementData.itemData, possiblePlacementSpot.Value)
+                    );
                 }
             }
         }
+
         return placedObjects;
     }
+
     private GameObject PlaceItem(ItemData item, Vector2 placementPosition)
     {
-        GameObject newItem = CreateObject(itemPrefab,placementPosition);
-        //GameObject newItem = Instantiate(itemPrefab, placementPosition, Quaternion.identity);
+        GameObject newItem = CreateObject(itemPrefab, placementPosition);
         newItem.GetComponent<Item>().Initialize(item);
         return newItem;
     }
@@ -71,7 +90,9 @@ public class PrefabPlacer : MonoBehaviour
     {
         if (prefab == null)
             return null;
+
         GameObject newItem;
+
         if (Application.isPlaying)
         {
             newItem = Instantiate(prefab, placementPosition, Quaternion.identity);

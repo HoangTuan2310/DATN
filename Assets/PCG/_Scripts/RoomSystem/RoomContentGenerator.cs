@@ -23,17 +23,6 @@ public class RoomContentGenerator : MonoBehaviour
 
     public UnityEvent RegenerateDungeon;
 
-    //private void Update()
-    //{
-    //    if (Input.GetKeyDown(KeyCode.Space))
-    //    {
-    //        foreach (var item in spawnedObjects)
-    //        {
-    //            Destroy(item);
-    //        }
-    //        RegenerateDungeon?.Invoke();
-    //    }
-    //}
     public void GenerateRoomContent(DungeonData dungeonData)
     {
         foreach (GameObject item in spawnedObjects)
