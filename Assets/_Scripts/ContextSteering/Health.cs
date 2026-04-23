@@ -40,4 +40,13 @@ public class Health : MonoBehaviour
             Destroy(gameObject);
         }
     }
+
+private void OnDestroy()
+    {
+        if (isDead && EnemyManager.Instance != null)
+        {
+            EnemyManager.Instance.UnregisterEnemy(gameObject);
+        }
+    }
+
 }

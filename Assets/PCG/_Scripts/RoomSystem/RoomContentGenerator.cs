@@ -10,6 +10,9 @@ public class RoomContentGenerator : MonoBehaviour
     [SerializeField]
     private RoomGenerator playerRoom, defaultRoom;
 
+    [SerializeField]
+    private ExitRoom exitRoom;
+
     List<GameObject> spawnedObjects = new List<GameObject>();
 
     [SerializeField]
@@ -23,7 +26,7 @@ public class RoomContentGenerator : MonoBehaviour
 
     public UnityEvent RegenerateDungeon;
 
-    public void GenerateRoomContent(DungeonData dungeonData)
+public void GenerateRoomContent(DungeonData dungeonData)
     {
         foreach (GameObject item in spawnedObjects)
         {
@@ -32,6 +35,7 @@ public class RoomContentGenerator : MonoBehaviour
         spawnedObjects.Clear();
 
         SelectPlayerSpawnPoint(dungeonData);
+        SelectExitRoom(dungeonData);
         SelectEnemySpawnPoints(dungeonData);
 
         foreach (GameObject item in spawnedObjects)
@@ -84,4 +88,21 @@ public class RoomContentGenerator : MonoBehaviour
         }
     }
 
+private void SelectExitRoom(DungeonData dungeonData)
+    {
+        if (exitRoom == null || dungeonData.roomsDictionary.Count == 0) return;
+
+        int exitIndex = Random.Range(0, dungeonData.roomsDictionary.Count);
+        Vector2Int exitRoomKey = Enumerable.ElementAt(dungeonData.roomsDictionary.Keys, exitIndex);
+
+        spawnedObjects.AddRange(
+            exitRoom.ProcessRoom(
+                exitRoomKey,
+                dungeonData.roomsDictionary[exitRoomKey],
+                dungeonData.GetRoomFloorWithoutCorridors(exitRoomKey)
+            )
+        );
+
+        dungeonData.roomsDictionary.Remove(exitRoomKey);
+    }
 }
