@@ -579,6 +579,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 2334184184601206654, guid: bfdae5ea0a2bf4f4ba045235b0f22eb0, type: 3}
       insertIndex: -1
       addedObject: {fileID: 5961086909165061165}
+    - targetCorrespondingSourceObject: {fileID: 2334184184601206654, guid: bfdae5ea0a2bf4f4ba045235b0f22eb0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -7713912717644803952}
   m_SourcePrefab: {fileID: 100100000, guid: bfdae5ea0a2bf4f4ba045235b0f22eb0, type: 3}
 --- !u!114 &3094051805721863272 stripped
 MonoBehaviour:
@@ -699,3 +702,36 @@ MonoBehaviour:
         m_CallState: 2
   movementInput: {x: 0, y: 0}
   movementDirectionSolver: {fileID: 8413207685032385467}
+--- !u!114 &-7713912717644803952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3094051805721863274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64bb2970c1e92f64a8e65c12bcac19a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: NewAssembly::EnemyDrop
+  drops:
+  - prefab: {fileID: 6894692858217379386, guid: f6ac90b54d37be94bb5043f0ad459b30, type: 3}
+    dropChance: 0.3
+    minQuantity: 1
+    maxQuantity: 3
+    scatterRadius: 0.2
+  - prefab: {fileID: 3697010991075434697, guid: 8a681b82112e884419645aad6c9826ad, type: 3}
+    dropChance: 0.3
+    minQuantity: 1
+    maxQuantity: 1
+    scatterRadius: 0.2
+  - prefab: {fileID: 3076503974422656959, guid: 9baad783eac0ee84bbb91d8d89bd3851, type: 3}
+    dropChance: 0.3
+    minQuantity: 1
+    maxQuantity: 2
+    scatterRadius: 0.2
+  - prefab: {fileID: 129796991617260379, guid: 89ab329e895401442a5563cfaaab60b4, type: 3}
+    dropChance: 0.3
+    minQuantity: 1
+    maxQuantity: 2
+    scatterRadius: 0.2

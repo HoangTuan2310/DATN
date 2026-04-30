@@ -8,7 +8,11 @@ using UnityEngine.Events;
 public class PlayerInput : MonoBehaviour
 {
     public UnityEvent<Vector2> OnMovementInput, OnPointerInput;
-    public UnityEvent OnAttack;
+public UnityEvent OnAttack;
+    public UnityEvent OnInteract;
+
+    //[Tooltip("Key used to trigger interactions (portals, NPCs, etc).")]
+    public KeyCode interactKey = KeyCode.E;
 
     //[SerializeField]
     //private InputActionReference movement, attack, pointerPosition;
@@ -19,7 +23,9 @@ public class PlayerInput : MonoBehaviour
         OnMovementInput?.Invoke(new Vector2(Input.GetAxis("Horizontal"),Input.GetAxis("Vertical")));
         OnPointerInput?.Invoke(GetPointerInput());
         if(Input.GetMouseButtonDown(0))
-            OnAttack?.Invoke();
+        OnAttack?.Invoke();
+        if(Input.GetKeyDown(interactKey))
+            OnInteract?.Invoke();
     }
 
     private Vector2 GetPointerInput()

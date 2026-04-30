@@ -61,7 +61,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -99,7 +99,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -140,12 +140,12 @@ TextureImporter:
       name: ingots_orepack_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 18
-        width: 17
-        height: 13
+        x: 1
+        y: 19
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -162,12 +162,12 @@ TextureImporter:
       name: ingots_orepack_1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 18
-        width: 17
-        height: 13
+        x: 17
+        y: 19
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -184,12 +184,12 @@ TextureImporter:
       name: ingots_orepack_2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 18
-        width: 17
-        height: 13
+        x: 33
+        y: 19
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -206,12 +206,12 @@ TextureImporter:
       name: ingots_orepack_3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 18
-        width: 17
-        height: 13
+        x: 49
+        y: 19
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -228,12 +228,12 @@ TextureImporter:
       name: ingots_orepack_4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 18
-        width: 17
-        height: 13
+        x: 65
+        y: 19
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -250,12 +250,12 @@ TextureImporter:
       name: ingots_orepack_5
       rect:
         serializedVersion: 2
-        x: 80
-        y: 18
-        width: 17
-        height: 13
+        x: 81
+        y: 19
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -272,12 +272,12 @@ TextureImporter:
       name: ingots_orepack_6
       rect:
         serializedVersion: 2
-        x: 96
-        y: 18
-        width: 17
-        height: 13
+        x: 97
+        y: 19
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -294,12 +294,12 @@ TextureImporter:
       name: ingots_orepack_7
       rect:
         serializedVersion: 2
-        x: 112
-        y: 18
-        width: 16
-        height: 13
+        x: 113
+        y: 19
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -316,12 +316,12 @@ TextureImporter:
       name: ingots_orepack_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2
-        width: 17
-        height: 13
+        x: 1
+        y: 3
+        width: 15
+        height: 11
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -338,7 +338,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6c043caab791f1649a7482f3396780b1
     internalID: 0
     vertices: []
     indices: 

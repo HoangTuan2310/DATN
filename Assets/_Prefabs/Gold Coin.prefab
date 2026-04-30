@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6727816591556158972}
   - component: {fileID: 5510207366581670548}
   - component: {fileID: 9090589774480411072}
+  - component: {fileID: 1293423777892999412}
   m_Layer: 0
   m_Name: Gold Coin
   m_TagString: Untagged
@@ -152,3 +153,21 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.5, y: 0.5}
   m_Direction: 0
+--- !u!114 &1293423777892999412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6894692858217379386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb948318f406c294fa2e4151baee574a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: NewAssembly::ItemPickup
+  playerTag: Player
+  attractRadius: 2
+  flySpeed: 2
+  acceleration: 2
+  collectRadius: 0.1
+  lifetime: 12
