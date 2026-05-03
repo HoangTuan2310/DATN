@@ -2,17 +2,7 @@ using System;
 using UnityEngine;
 using UnityEngine.UI;
 
-/// <summary>
-/// Dungeon entry confirmation popup.
-/// Attach to Canvas. Wire up references in Inspector.
-///
-/// UI hierarchy to build:
-///   Canvas
-///   ├── DialogPanel (Panel)
-///   │   ├── MessageText  (TextMeshProUGUI)
-///   │   ├── EnterButton  (Button + child label "Enter")
-///   │   └── NoButton     (Button + child label "No")
-/// </summary>
+
 public class DungeonDialogUI : MonoBehaviour
 {
     [Header("Dialog UI")]

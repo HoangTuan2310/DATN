@@ -12,8 +12,8 @@ public class Agent : MonoBehaviour
 
     private Vector2 pointerInput, movementInput;
 
-    public Vector2 PointerInput { get => pointerInput; set => pointerInput = value; }
     public Vector2 MovementInput { get => movementInput; set => movementInput = value; }
+    public Vector2 PointerInput { get => pointerInput; set => pointerInput = value; }
 
     private void Update()
     {

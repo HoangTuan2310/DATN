@@ -10,6 +10,19 @@ public class InventoryController : MonoBehaviour
     public int slotCount;
     public GameObject[] itemPrefabs;
 
+    public static InventoryController Instance { get; private set; }
+
+    private void Awake()
+    {
+        if (Instance != null && Instance != this)
+        {
+            Destroy(gameObject);
+            return;
+        }
+        Instance = this;
+    }
+
+
     void Start()
     {
         itemDictionary = Object.FindFirstObjectByType<ItemDictionary>();
@@ -24,6 +37,41 @@ public class InventoryController : MonoBehaviour
         //    }
         //}
     }
+    public bool AddItem(GameObject itemPrefab)
+    {
+        ItemInventory itemToAdd = itemPrefab.GetComponent<ItemInventory>();
+        if (itemToAdd ==  null) return false;
+
+        foreach (Transform slotTranform in inventoryPanel.transform)
+        {
+            Slot slot = slotTranform.GetComponent<Slot>();
+            if (slot != null && slot.currentItem != null)
+            {
+                ItemInventory slotItem = slot.currentItem.GetComponent<ItemInventory>();
+                if(slotItem != null && slotItem.ID == itemToAdd.ID)
+                {
+                    slotItem.AddToStack();
+                    return true;
+                }
+            }
+        }
+
+        foreach (Transform slotTranform in inventoryPanel.transform)
+        {
+            Slot slot = slotTranform.GetComponent<Slot>();
+            if (slot != null && slot.currentItem == null)
+            {
+                GameObject newItem = Instantiate(itemPrefab, slotTranform);
+                newItem.GetComponent<RectTransform>().anchoredPosition = Vector2.zero;
+                slot.currentItem = newItem;
+                return true;
+            }
+        }
+
+        Debug.Log("Inventory is full");
+        return false;
+    }
+
     public List<InventorySaveData> GetInventoryItems()
     {
         List<InventorySaveData> invData = new List<InventorySaveData>();
@@ -33,7 +81,12 @@ public class InventoryController : MonoBehaviour
             if (slot.currentItem != null)
             {
                 ItemInventory item = slot.currentItem.GetComponent<ItemInventory>();
-                invData.Add(new InventorySaveData { itemID = item.ID, slotIndex = slotTranform.GetSiblingIndex() });
+                invData.Add(new InventorySaveData
+                {
+                    itemID = item.ID,
+                    slotIndex = slotTranform.GetSiblingIndex(),
+                    quantity = item.quantity
+                });
             }
         }
         return invData;
@@ -59,6 +112,13 @@ public class InventoryController : MonoBehaviour
                 {
                     GameObject item = Instantiate(itemPrefab, slot.transform);
                     item.GetComponent<RectTransform>().anchoredPosition = Vector2.zero;
+                    
+                    ItemInventory itemComponent = item.GetComponent<ItemInventory>();
+                    if (itemComponent != null && data.quantity > 1)
+                    {
+                        itemComponent.quantity = data.quantity;
+                        itemComponent.UpdateQuantityDispay();
+                    }
                     slot.currentItem = item;
                 }
             }

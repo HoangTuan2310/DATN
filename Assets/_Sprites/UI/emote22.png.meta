@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: be0e4f33cd4262144ad2f7ec34363252
+guid: d4089c9b4ee3a324dbe84be05f34e914
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5211945919975404372
-    second: Resource_Branch_BigWander_HighContrast_SurvivalKit_0
+      213: -2122837972990275081
+    second: emote22_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,12 +113,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Resource_Branch_BigWander_HighContrast_SurvivalKit_0
+      name: emote22_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
-        width: 12
+        x: 0
+        y: 0
+        width: 14
         height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4533eac333d845840800000000000000
-      internalID: 5211945919975404372
+      spriteID: 7f154306c1a2a82e0800000000000000
+      internalID: -2122837972990275081
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Resource_Branch_BigWander_HighContrast_SurvivalKit_0: 5211945919975404372
+      emote22_0: -2122837972990275081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

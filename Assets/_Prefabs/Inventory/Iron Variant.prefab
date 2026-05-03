@@ -96,6 +96,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Iron Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 5116808748035041522, guid: 276b5fa7f6e21d4499ce63493b38d2db, type: 3}
+      propertyPath: Name
+      value: Iron
+      objectReference: {fileID: 0}
+    - target: {fileID: 8135863181026799440, guid: 276b5fa7f6e21d4499ce63493b38d2db, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -9113590679739506273, guid: 80b9f361faac77948adc60f76603ec07, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

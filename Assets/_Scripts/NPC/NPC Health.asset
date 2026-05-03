@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fac9a31dbbd70da4ead921ed65bf40ff, type: 3}
+  m_Name: NPC Health
+  m_EditorClassIdentifier: NewAssembly::NPCDialogue
+  npcName: Kiro
+  npcPortrait: {fileID: -8557219725911740166, guid: c557f05203115a6488f74cd445d08531, type: 3}
+  dialogueLines:
+  - "Xin ch\xE0o t\xF4i l\xE0 m\u1ED9t ph\xF9 th\u1EE7y"
+  - "B\u1EA1n c\xF3 mu\u1ED1n 1 b\xECnh thu\u1ED1c \u0111\u1EC3 m\u1EA1nh h\u01A1n
+    kh\xF4ng?"
+  autoProgressLines: 0100
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 228ed010e66ee244abb34c215cd0fa20, type: 3}
+  voicePitch: 1

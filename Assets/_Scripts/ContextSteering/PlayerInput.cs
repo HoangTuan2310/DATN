@@ -8,7 +8,7 @@ using UnityEngine.Events;
 public class PlayerInput : MonoBehaviour
 {
     public UnityEvent<Vector2> OnMovementInput, OnPointerInput;
-public UnityEvent OnAttack;
+    public UnityEvent OnAttack;
     public UnityEvent OnInteract;
 
     //[Tooltip("Key used to trigger interactions (portals, NPCs, etc).")]
@@ -20,11 +20,11 @@ public UnityEvent OnAttack;
     private void Update()
     {
         //OnMovementInput?.Invoke(movement.action.ReadValue<Vector2>().normalized);
-        OnMovementInput?.Invoke(new Vector2(Input.GetAxis("Horizontal"),Input.GetAxis("Vertical")));
+        OnMovementInput?.Invoke(new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical")));
         OnPointerInput?.Invoke(GetPointerInput());
-        if(Input.GetMouseButtonDown(0))
-        OnAttack?.Invoke();
-        if(Input.GetKeyDown(interactKey))
+        if (Input.GetMouseButtonDown(0))
+            OnAttack?.Invoke();
+        if (Input.GetKeyDown(interactKey))
             OnInteract?.Invoke();
     }
 

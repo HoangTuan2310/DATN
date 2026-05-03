@@ -482,22 +482,22 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":8.0,"y":8.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      1_door_anim_opening_f0_0: -799564977
-      1_door_anim_opening_f0_1: 2029876667
-      1_door_anim_opening_f0_10: 844259620
-      1_door_anim_opening_f0_11: -1349710869
-      1_door_anim_opening_f0_12: -1233827986
-      1_door_anim_opening_f0_13: -585243833
-      1_door_anim_opening_f0_14: -1405831933
-      1_door_anim_opening_f0_15: -483786071
-      1_door_anim_opening_f0_2: -998789092
-      1_door_anim_opening_f0_3: -607572846
-      1_door_anim_opening_f0_4: 1057007247
-      1_door_anim_opening_f0_5: -1258358817
-      1_door_anim_opening_f0_6: 1355848185
-      1_door_anim_opening_f0_7: -1383305905
-      1_door_anim_opening_f0_8: -864808165
-      1_door_anim_opening_f0_9: -148476630
+      1_door_anim_opening_f0_0: 1829959814
+      1_door_anim_opening_f0_1: -1768957083
+      1_door_anim_opening_f0_10: 2144326529
+      1_door_anim_opening_f0_11: -334395469
+      1_door_anim_opening_f0_12: 2022343199
+      1_door_anim_opening_f0_13: 1999102721
+      1_door_anim_opening_f0_14: 85472283
+      1_door_anim_opening_f0_15: -830632191
+      1_door_anim_opening_f0_2: 69066995
+      1_door_anim_opening_f0_3: -1462560619
+      1_door_anim_opening_f0_4: 339990702
+      1_door_anim_opening_f0_5: 1552093809
+      1_door_anim_opening_f0_6: -1506099937
+      1_door_anim_opening_f0_7: -1871435928
+      1_door_anim_opening_f0_8: 1608906566
+      1_door_anim_opening_f0_9: 934053018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
