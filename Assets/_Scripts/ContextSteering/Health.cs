@@ -2,16 +2,25 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.UIElements;
 
 public class Health : MonoBehaviour
 {
-    [SerializeField]
-    private int currentHealth, maxHealth;
+    public int currentHealth, maxHealth;
 
     public UnityEvent<GameObject> OnHitWithReference, OnDeathWithReference;
 
+    //public SpriteRenderer playerRenderer;
+
     [SerializeField]
     private bool isDead = false;
+
+    void Start()
+    {
+        HealthUI ui = FindFirstObjectByType<HealthUI>();
+        if (ui != null)
+            ui.SetTarget(this);
+    }
 
     public void InitializeHealth(int healthValue)
     {
@@ -29,6 +38,7 @@ public class Health : MonoBehaviour
 
         currentHealth -= amount;
 
+
         if (currentHealth > 0)
         {
             OnHitWithReference?.Invoke(sender);
@@ -37,6 +47,7 @@ public class Health : MonoBehaviour
         {
             OnDeathWithReference?.Invoke(sender);
             isDead = true;
+            //playerRenderer.enabled = false;
             Destroy(gameObject);
         }
     }

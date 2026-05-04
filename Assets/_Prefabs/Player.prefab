@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 2334184184601206650}
   - component: {fileID: 2334184184601206652}
   - component: {fileID: 2334184184601206648}
+  - component: {fileID: 3902097187396026509}
   - component: {fileID: 2334184184601206535}
   - component: {fileID: 2334184184601206534}
   - component: {fileID: 3623326460163637102}
@@ -195,6 +196,28 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   isDead: 0
+--- !u!114 &3902097187396026509
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2334184184601206654}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ddd39e835efb5e44b16ca06db4d25c4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: NewAssembly::HealthUI
+  health: 2
+  maxHealth: 2
+  hearts:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  fullHeart: {fileID: 3690948935526715933, guid: 2581fc8dd4c81b54db13532a93a8916a, type: 3}
+  emptyHeart: {fileID: -3981381817009112554, guid: 1dc01ebb47b106a4dbaa370d3d5ca11f, type: 3}
+  playHealth: {fileID: 2334184184601206648}
 --- !u!114 &2334184184601206535
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -793,6 +816,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: NewAssembly::InteractionDetector
   interactionIcon: {fileID: 5650641095579949692}
+  playerInput: {fileID: 2334184184601206534}
 --- !u!1 &3421001123590205339
 GameObject:
   m_ObjectHideFlags: 0
