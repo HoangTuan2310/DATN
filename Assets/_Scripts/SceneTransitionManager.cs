@@ -14,11 +14,12 @@ public class SceneTransitionManager : MonoBehaviour
     [SerializeField] private string mainMenuSceneName = "StartScene";
     [SerializeField] private string nextFloorSceneName = "MainScene";
 
-    private void Awake()
+private void Awake()
     {
         if (Instance == null)
         {
             Instance = this;
+            transform.SetParent(null);
             DontDestroyOnLoad(gameObject);
         }
         else

@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
-using UnityEngine.UIElements;
+
 
 public class Health : MonoBehaviour
 {
@@ -15,8 +15,9 @@ public class Health : MonoBehaviour
     [SerializeField]
     private bool isDead = false;
 
-    void Start()
+void Start()
     {
+        if (!CompareTag("Player")) return;
         HealthUI ui = FindFirstObjectByType<HealthUI>();
         if (ui != null)
             ui.SetTarget(this);
@@ -29,7 +30,7 @@ public class Health : MonoBehaviour
         isDead = false;
     }
 
-    public void GetHit(int amount, GameObject sender)
+public void GetHit(int amount, GameObject sender)
     {
         if (isDead)
             return;
@@ -38,16 +39,23 @@ public class Health : MonoBehaviour
 
         currentHealth -= amount;
 
-
         if (currentHealth > 0)
         {
             OnHitWithReference?.Invoke(sender);
         }
         else
         {
+            currentHealth = 0;
             OnDeathWithReference?.Invoke(sender);
             isDead = true;
-            //playerRenderer.enabled = false;
+
+            if (CompareTag("Player"))
+            {
+                HealthUI ui = FindFirstObjectByType<HealthUI>();
+                if (ui != null)
+                    ui.NotifyPlayerDied();
+            }
+
             Destroy(gameObject);
         }
     }

@@ -8,7 +8,7 @@ public class DialogueAudio : MonoBehaviour
     private void Awake()
     {
         audioSource = GetComponent<AudioSource>();
-        audioSource.loop = true; // loop khi đang type
+        audioSource.loop = true;
     }
 
     public void StartTypingSound()
