@@ -1,0 +1,3822 @@
+fileFormatVersion: 2
+guid: 4c9a37618191681428c497e24a2f6a03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1355370196146743262
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_0
+  - first:
+      213: 2620422306664655283
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_1
+  - first:
+      213: -4931670504555052824
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_2
+  - first:
+      213: -7467147374200966538
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_3
+  - first:
+      213: 4691644114330044954
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_4
+  - first:
+      213: -50568140786592552
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_5
+  - first:
+      213: 6469153168478988502
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_6
+  - first:
+      213: -8070968200178718554
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_7
+  - first:
+      213: 2033390218765130710
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_8
+  - first:
+      213: -4603592355516161105
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_9
+  - first:
+      213: -3594845681997276282
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_10
+  - first:
+      213: -5673544329452389497
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_11
+  - first:
+      213: 2628144494258674336
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_12
+  - first:
+      213: -132609524826665126
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_13
+  - first:
+      213: -1140187780939189810
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_14
+  - first:
+      213: -5749334886298280567
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_15
+  - first:
+      213: 3780821752092514955
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_16
+  - first:
+      213: -6198629257305708123
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_17
+  - first:
+      213: 6079306256034071073
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_18
+  - first:
+      213: 4058489771388893543
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_19
+  - first:
+      213: -5484911887828777071
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_20
+  - first:
+      213: -837279500138414544
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_21
+  - first:
+      213: 991309571531694759
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_22
+  - first:
+      213: -5620504433955856217
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_23
+  - first:
+      213: -8153978663781631629
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_24
+  - first:
+      213: -2153565483558950749
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_25
+  - first:
+      213: 783894553671409098
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_26
+  - first:
+      213: -2565815939290093669
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_27
+  - first:
+      213: -6086277155405380650
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_28
+  - first:
+      213: 3697154809757689283
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_29
+  - first:
+      213: 8134448465056452419
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_30
+  - first:
+      213: -3518334458767044519
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_31
+  - first:
+      213: -7391600958215292199
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_32
+  - first:
+      213: 920052541241389000
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_33
+  - first:
+      213: 9007974846649481556
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_34
+  - first:
+      213: -341042913464298800
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_35
+  - first:
+      213: -3552385813600532714
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_36
+  - first:
+      213: -9019238667602511619
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_37
+  - first:
+      213: -8309968131750350046
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_38
+  - first:
+      213: -8012971765644556079
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_39
+  - first:
+      213: 1395553092143650985
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_40
+  - first:
+      213: -8767956092570102073
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_41
+  - first:
+      213: -6101261566270609747
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_42
+  - first:
+      213: -1675198375469547943
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_43
+  - first:
+      213: -4414789181687356634
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_44
+  - first:
+      213: -3406287809945212170
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_45
+  - first:
+      213: -7951467394259869867
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_46
+  - first:
+      213: -5434415173282754498
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_47
+  - first:
+      213: 8457341934636488242
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_48
+  - first:
+      213: -8001304476316345224
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_49
+  - first:
+      213: 2459923111481538903
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_50
+  - first:
+      213: -4777766082566514184
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_51
+  - first:
+      213: 8875673293289127827
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_52
+  - first:
+      213: -529687788824760479
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_53
+  - first:
+      213: 5006623222303000059
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_54
+  - first:
+      213: -5769198439990641835
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_55
+  - first:
+      213: -8337134049283369182
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_56
+  - first:
+      213: 8228498601171042181
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_57
+  - first:
+      213: -4757731827768320154
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_58
+  - first:
+      213: 719225172664323942
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_59
+  - first:
+      213: 7008051402664948157
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_60
+  - first:
+      213: -4849509101884381843
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_61
+  - first:
+      213: -958959712784309263
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_62
+  - first:
+      213: -3709809653918707855
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_63
+  - first:
+      213: -5585449167481409199
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_64
+  - first:
+      213: 1396391520356959595
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_65
+  - first:
+      213: 7412548859415944942
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_66
+  - first:
+      213: 7184285781126334183
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_67
+  - first:
+      213: 2879424761534481674
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_68
+  - first:
+      213: 2581847268559740432
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_69
+  - first:
+      213: 6393031561411537406
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_70
+  - first:
+      213: 2596524615427999255
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_71
+  - first:
+      213: -4772725933288149111
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_72
+  - first:
+      213: -1072476454832282619
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_73
+  - first:
+      213: 8523242862166769389
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_74
+  - first:
+      213: 6214784441857861112
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_75
+  - first:
+      213: -6793091851016759262
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_76
+  - first:
+      213: -3042142139094638149
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_77
+  - first:
+      213: 6976967146611644371
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_78
+  - first:
+      213: 3708657375285492499
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_79
+  - first:
+      213: 7736995165436684081
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_80
+  - first:
+      213: 988952425390685660
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_81
+  - first:
+      213: 2754246776256644242
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_82
+  - first:
+      213: 1018542676759027121
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_83
+  - first:
+      213: -4822897777990411027
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_84
+  - first:
+      213: -6806643170036871927
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_85
+  - first:
+      213: -2990385299828277009
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_86
+  - first:
+      213: -5139490497586281239
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_87
+  - first:
+      213: 2953766825302461649
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_88
+  - first:
+      213: 7585217464578470123
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_89
+  - first:
+      213: 8505324539538781324
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_90
+  - first:
+      213: -213203569221344363
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_91
+  - first:
+      213: -3154595216231118594
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_92
+  - first:
+      213: -7488739817418574197
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_93
+  - first:
+      213: -7084235416134222192
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_94
+  - first:
+      213: 6024698104811488743
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_95
+  - first:
+      213: -445434416042915801
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_96
+  - first:
+      213: -3910878986939145612
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_97
+  - first:
+      213: -4381348443812902380
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_98
+  - first:
+      213: 7336195532881850441
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_99
+  - first:
+      213: 3485584178705039470
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_100
+  - first:
+      213: -56112495001231778
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_101
+  - first:
+      213: -3229369418916905781
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_102
+  - first:
+      213: -1513528170118956302
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_103
+  - first:
+      213: -2435276456309467637
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_104
+  - first:
+      213: -339404330143532923
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_105
+  - first:
+      213: 8156264651480211667
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_106
+  - first:
+      213: -4847031615988836678
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_107
+  - first:
+      213: -8007296366444542521
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_108
+  - first:
+      213: 6314955420565370812
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_109
+  - first:
+      213: -9073537237498844179
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_110
+  - first:
+      213: 5709989581191276963
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_111
+  - first:
+      213: 6409928952671527650
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_112
+  - first:
+      213: -6782615475897451125
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_113
+  - first:
+      213: 4047833237130445409
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_114
+  - first:
+      213: 763813707359380318
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_115
+  - first:
+      213: -5443716181137034614
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_116
+  - first:
+      213: -4656124809288104237
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_117
+  - first:
+      213: 2485584725523911820
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_118
+  - first:
+      213: 7828213866024663423
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_119
+  - first:
+      213: -222592634984571678
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_120
+  - first:
+      213: -2545053518075371362
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_121
+  - first:
+      213: -7050281737834500820
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_122
+  - first:
+      213: 497097675799879910
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_123
+  - first:
+      213: 7322450411528291166
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_124
+  - first:
+      213: -1853907019006674125
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_125
+  - first:
+      213: -1263912491029524949
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_126
+  - first:
+      213: 5087390325787302679
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_127
+  - first:
+      213: 7705660308161958405
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_128
+  - first:
+      213: -1312517590493853185
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_129
+  - first:
+      213: -7525129639947375374
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_130
+  - first:
+      213: 1875547409787090878
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_131
+  - first:
+      213: -3043217062058233398
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_132
+  - first:
+      213: 4447307095949111988
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_133
+  - first:
+      213: 9001630069214015124
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_134
+  - first:
+      213: -7115664820569188318
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_135
+  - first:
+      213: 5620829698543675282
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_136
+  - first:
+      213: 5364360688259532681
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_137
+  - first:
+      213: 5995441846907495174
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_138
+  - first:
+      213: 5743115307799235720
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_139
+  - first:
+      213: 6394512539665399134
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_140
+  - first:
+      213: 3777610137746286499
+    second: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2289587dcf1c03de0800000000000000
+      internalID: -1355370196146743262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a14e443c9d5420800000000000000
+      internalID: 2620422306664655283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e089b22ecf2f8bb0800000000000000
+      internalID: -4931670504555052824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672b24b960d5f5890800000000000000
+      internalID: -7467147374200966538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ac13fe6711c1140800000000000000
+      internalID: 4691644114330044954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 592
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4967b3b885c4ff0800000000000000
+      internalID: -50568140786592552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d868cc188c07c950800000000000000
+      internalID: 6469153168478988502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8afda0f292eff80800000000000000
+      internalID: -8070968200178718554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_8
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbdf3f61ad083c10800000000000000
+      internalID: 2033390218765130710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_9
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa361ceb421cc10c0800000000000000
+      internalID: -4603592355516161105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_10
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b943606ea8c1ec0800000000000000
+      internalID: -3594845681997276282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bfe89fd758341b0800000000000000
+      internalID: -5673544329452389497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_12
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 592
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aadfa63e7b097420800000000000000
+      internalID: 2628144494258674336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_13
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 592
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f8fdaf650e82ef0800000000000000
+      internalID: -132609524826665126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 518
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1f0e3114d3d20f0800000000000000
+      internalID: -1140187780939189810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 518
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d1e67d1624630b0800000000000000
+      internalID: -5749334886298280567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_16
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 518
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a5b841a5d287430800000000000000
+      internalID: 3780821752092514955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_17
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a923ff388b0af9a0800000000000000
+      internalID: -6198629257305708123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12288bf84d80e5450800000000000000
+      internalID: 6079306256034071073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_19
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769f03cb1f6a25830800000000000000
+      internalID: 4058489771388893543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_20
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19706a5c2bda1e3b0800000000000000
+      internalID: -5484911887828777071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_21
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e78801bb26164f0800000000000000
+      internalID: -837279500138414544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a267999dc6d1cd00800000000000000
+      internalID: 991309571531694759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0ad8bfef4fff1b0800000000000000
+      internalID: -5620504433955856217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_24
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3797e2f5b9f37de80800000000000000
+      internalID: -8153978663781631629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_25
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 518
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a82def4a9ffc12e0800000000000000
+      internalID: -2153565483558950749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_26
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 519
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd92fc71f3f0ea00800000000000000
+      internalID: 783894553671409098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_27
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 522
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97249b5ff3646cd0800000000000000
+      internalID: -2565815939290093669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 448
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3cc737c23398ba0800000000000000
+      internalID: -6086277155405380650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_29
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 448
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5eb3b06beee4330800000000000000
+      internalID: 3697154809757689283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_30
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 448
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f4963e7cd53e070800000000000000
+      internalID: 8134448465056452419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 448
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9509c20637d5c2fc0800000000000000
+      internalID: -3518334458767044519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 445
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9daf3244712cb6990800000000000000
+      internalID: -7391600958215292199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_33
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 445
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf636f59eea4cc00800000000000000
+      internalID: 920052541241389000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_34
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 445
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45932309561c20d70800000000000000
+      internalID: 9007974846649481556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_35
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 445
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2dbc1f64f544bf0800000000000000
+      internalID: -341042913464298800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 445
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61704338ce363bec0800000000000000
+      internalID: -3552385813600532714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_37
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 445
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8b511c73a35d280800000000000000
+      internalID: -9019238667602511619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_38
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 445
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223343423001dac80800000000000000
+      internalID: -8309968131750350046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_39
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 444
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8858932a43cc090800000000000000
+      internalID: -8012971765644556079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_40
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 444
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a89b62b4200e5310800000000000000
+      internalID: 1395553092143650985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_41
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 444
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c613207366f15680800000000000000
+      internalID: -8767956092570102073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 370
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da662bc6ee6f35ba0800000000000000
+      internalID: -6101261566270609747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 370
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e73ddf3ff70c8e0800000000000000
+      internalID: -1675198375469547943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 370
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623a94b31a48bb2c0800000000000000
+      internalID: -4414789181687356634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_45
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 369
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae87db84f6ab0d0800000000000000
+      internalID: -3406287809945212170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_46
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 400
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f1a0a9886b6a190800000000000000
+      internalID: -7951467394259869867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_47
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 399
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e301d7251341594b0800000000000000
+      internalID: -5434415173282754498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 398
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236d50e3ea38e5570800000000000000
+      internalID: 8457341934636488242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 397
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cdb65b8f7a5f090800000000000000
+      internalID: -8001304476316345224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75971a26907632220800000000000000
+      internalID: 2459923111481538903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_51
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 395
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f996b4cf07f1bdb0800000000000000
+      internalID: -4777766082566514184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_52
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 374
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f7becb5d9bc2b70800000000000000
+      internalID: 8875673293289127827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_53
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 370
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fec3133cb26a8f0800000000000000
+      internalID: -529687788824760479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_54
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 370
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf587916b491b7540800000000000000
+      internalID: 5006623222303000059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_55
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 370
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bbe99d590bfefa0800000000000000
+      internalID: -5769198439990641835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_56
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 372
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22796a311cc8c4c80800000000000000
+      internalID: -8337134049283369182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_57
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 372
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f399d91ef713270800000000000000
+      internalID: 8228498601171042181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_58
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 372
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f9c453c1429fdb0800000000000000
+      internalID: -4757731827768320154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_59
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 372
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f0d22eb733bf900800000000000000
+      internalID: 719225172664323942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1b587de99914160800000000000000
+      internalID: 7008051402664948157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6568276a2513bcb0800000000000000
+      internalID: -4849509101884381843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 298
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3a495d83711b2f0800000000000000
+      internalID: -958959712784309263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_63
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 298
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f4cd176cb148cc0800000000000000
+      internalID: -3709809653918707855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 296
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151f44d339f7c72b0800000000000000
+      internalID: -5585449167481409199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_65
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b658e3a70baf06310800000000000000
+      internalID: 1396391520356959595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_66
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeed6bd0ae9aed660800000000000000
+      internalID: 7412548859415944942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6ccec9ad5b3b360800000000000000
+      internalID: 7184285781126334183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_68
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a050ab49095c5f720800000000000000
+      internalID: 2879424761534481674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_69
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed0da596094d320800000000000000
+      internalID: 2581847268559740432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9abc7555c98b850800000000000000
+      internalID: 6393031561411537406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_71
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 716c4297165b80420800000000000000
+      internalID: 2596524615427999255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_72
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fa018fc0fd3cdb0800000000000000
+      internalID: -4772725933288149111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_73
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50460c7b85ccd11f0800000000000000
+      internalID: -1072476454832282619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_74
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee75dd9934a84670800000000000000
+      internalID: 8523242862166769389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_75
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5ef84c5895f3650800000000000000
+      internalID: 6214784441857861112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_76
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 296
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2289b8de3f61ab1a0800000000000000
+      internalID: -6793091851016759262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1640ba7d328c5d0800000000000000
+      internalID: -3042142139094638149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d79b5f77aa23d060800000000000000
+      internalID: 6976967146611644371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_79
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b3687cb3cc77330800000000000000
+      internalID: 3708657375285492499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_80
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137a4c05c145f5b60800000000000000
+      internalID: 7736995165436684081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_81
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd3c2fbdf679bd00800000000000000
+      internalID: 988952425390685660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_82
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294ca82b9dc093620800000000000000
+      internalID: 2754246776256644242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_83
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd1cc40b27922e00800000000000000
+      internalID: 1018542676759027121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_84
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec5cd21600a11db0800000000000000
+      internalID: -4822897777990411027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d0d199912f981a0800000000000000
+      internalID: -6806643170036871927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_86
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe08f2ed9640086d0800000000000000
+      internalID: -2990385299828277009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_87
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4cfd46f9cdca8b0800000000000000
+      internalID: -5139490497586281239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_88
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc8c732743edf820800000000000000
+      internalID: 2953766825302461649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_89
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0f948881b144960800000000000000
+      internalID: 7585217464578470123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_90
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 222
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c843f960b9bf80670800000000000000
+      internalID: 8505324539538781324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_91
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 149
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59367bfbb7c8a0df0800000000000000
+      internalID: -213203569221344363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_92
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 152
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c5665d50a834d0800000000000000
+      internalID: -3154595216231118594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_93
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 152
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86317720d6a21890800000000000000
+      internalID: -7488739817418574197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_94
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 152
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ef3144c6dbfad90800000000000000
+      internalID: -7084235416134222192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_95
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 152
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5024091070c9350800000000000000
+      internalID: 6024698104811488743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_96
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 152
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728470532cf71d9f0800000000000000
+      internalID: -445434416042915801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_97
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 152
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472e3f73844c9b9c0800000000000000
+      internalID: -3910878986939145612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_98
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a4251cdc25233c0800000000000000
+      internalID: -4381348443812902380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_99
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 148
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940fa34e7f66fc560800000000000000
+      internalID: 7336195532881850441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_100
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 148
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e608f66d7584f5030800000000000000
+      internalID: 3485584178705039470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_101
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 148
+        width: 46
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e9dfbabf5a83ff0800000000000000
+      internalID: -56112495001231778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_102
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 161
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccb2f89f99fe23d0800000000000000
+      internalID: -3229369418916905781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_103
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 160
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa3386f52edefae0800000000000000
+      internalID: -1513528170118956302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_104
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 148
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b065dc337f8243ed0800000000000000
+      internalID: -2435276456309467637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_105
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 148
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588b09a5f813a4bf0800000000000000
+      internalID: -339404330143532923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_106
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 148
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0ad8d9c7fd03170800000000000000
+      internalID: 8156264651480211667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_107
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 148
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6d5e90d62ebbcb0800000000000000
+      internalID: -4847031615988836678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_108
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c50cc2116e50e090800000000000000
+      internalID: -8007296366444542521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_109
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 74
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7f9373f7a33a750800000000000000
+      internalID: 6314955420565370812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 74
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb2a96c4f1541280800000000000000
+      internalID: -9073537237498844179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_111
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 74
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a966127545fd3f40800000000000000
+      internalID: 5709989581191276963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_112
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 74
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e26a73db64a4f850800000000000000
+      internalID: 6409928952671527650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_113
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 74
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8db017192f4fd1a0800000000000000
+      internalID: -6782615475897451125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_114
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 74
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1620e2102eacc2830800000000000000
+      internalID: 4047833237130445409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_115
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 74
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53eabd158c999a00800000000000000
+      internalID: 763813707359380318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_116
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 77
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82f74da9f80474b0800000000000000
+      internalID: -5443716181137034614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_117
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 76
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6cf78b72f126fb0800000000000000
+      internalID: -4656124809288104237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_118
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 74
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c845dff73229e7220800000000000000
+      internalID: 2485584725523911820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_119
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 73
+        width: 44
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79ff26190763ac60800000000000000
+      internalID: 7828213866024663423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_120
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 86
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec50268d2139ecf0800000000000000
+      internalID: -222592634984571678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_121
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 95
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9062c04f472eacd0800000000000000
+      internalID: -2545053518075371362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_122
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 9
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d63f90d1e582e90800000000000000
+      internalID: -7050281737834500820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_123
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e069b0d3bb06e600800000000000000
+      internalID: 497097675799879910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_124
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 12
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e538e807ad19e9560800000000000000
+      internalID: 7322450411528291166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_125
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bf08d73699546e0800000000000000
+      internalID: -1853907019006674125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_126
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 19
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e8101394ea57ee0800000000000000
+      internalID: -1263912491029524949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_127
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b9f421c8a0a9640800000000000000
+      internalID: 5087390325787302679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_128
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 18
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50212d3593100fa60800000000000000
+      internalID: 7705660308161958405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_129
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 15
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff98929943009cde0800000000000000
+      internalID: -1312517590493853185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_130
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc6c2a567e519790800000000000000
+      internalID: -7525129639947375374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_131
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb773cf9e68470a10800000000000000
+      internalID: 1875547409787090878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_132
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 20
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac17c99a43254c5d0800000000000000
+      internalID: -3043217062058233398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_133
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2fe1dad3208bd30800000000000000
+      internalID: 4447307095949111988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_134
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 22
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ee9f2fad63cec70800000000000000
+      internalID: 9001630069214015124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_135
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 21
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228da3dcb84104d90800000000000000
+      internalID: -7115664820569188318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_136
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 23
+        width: 34
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29769a494d2310e40800000000000000
+      internalID: 5620829698543675282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_137
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 22
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98787c6df99027a40800000000000000
+      internalID: 5364360688259532681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_138
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 23
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603ee643896143350800000000000000
+      internalID: 5995441846907495174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_139
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c4b71b1f4a3bf40800000000000000
+      internalID: 5743115307799235720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_140
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 16
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d7986764fddb850800000000000000
+      internalID: 6394512539665399134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_141
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 16
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a72848d764cc6430800000000000000
+      internalID: 3777610137746286499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_0: -1355370196146743262
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_1: 2620422306664655283
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_10: -3594845681997276282
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_100: 3485584178705039470
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_101: -56112495001231778
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_102: -3229369418916905781
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_103: -1513528170118956302
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_104: -2435276456309467637
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_105: -339404330143532923
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_106: 8156264651480211667
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_107: -4847031615988836678
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_108: -8007296366444542521
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_109: 6314955420565370812
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_11: -5673544329452389497
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_110: -9073537237498844179
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_111: 5709989581191276963
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_112: 6409928952671527650
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_113: -6782615475897451125
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_114: 4047833237130445409
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_115: 763813707359380318
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_116: -5443716181137034614
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_117: -4656124809288104237
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_118: 2485584725523911820
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_119: 7828213866024663423
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_12: 2628144494258674336
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_120: -222592634984571678
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_121: -2545053518075371362
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_122: -7050281737834500820
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_123: 497097675799879910
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_124: 7322450411528291166
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_125: -1853907019006674125
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_126: -1263912491029524949
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_127: 5087390325787302679
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_128: 7705660308161958405
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_129: -1312517590493853185
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_13: -132609524826665126
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_130: -7525129639947375374
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_131: 1875547409787090878
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_132: -3043217062058233398
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_133: 4447307095949111988
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_134: 9001630069214015124
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_135: -7115664820569188318
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_136: 5620829698543675282
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_137: 5364360688259532681
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_138: 5995441846907495174
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_139: 5743115307799235720
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_14: -1140187780939189810
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_140: 6394512539665399134
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_141: 3777610137746286499
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_15: -5749334886298280567
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_16: 3780821752092514955
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_17: -6198629257305708123
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_18: 6079306256034071073
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_19: 4058489771388893543
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_2: -4931670504555052824
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_20: -5484911887828777071
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_21: -837279500138414544
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_22: 991309571531694759
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_23: -5620504433955856217
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_24: -8153978663781631629
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_25: -2153565483558950749
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_26: 783894553671409098
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_27: -2565815939290093669
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_28: -6086277155405380650
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_29: 3697154809757689283
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_3: -7467147374200966538
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_30: 8134448465056452419
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_31: -3518334458767044519
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_32: -7391600958215292199
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_33: 920052541241389000
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_34: 9007974846649481556
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_35: -341042913464298800
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_36: -3552385813600532714
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_37: -9019238667602511619
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_38: -8309968131750350046
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_39: -8012971765644556079
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_4: 4691644114330044954
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_40: 1395553092143650985
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_41: -8767956092570102073
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_42: -6101261566270609747
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_43: -1675198375469547943
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_44: -4414789181687356634
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_45: -3406287809945212170
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_46: -7951467394259869867
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_47: -5434415173282754498
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_48: 8457341934636488242
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_49: -8001304476316345224
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_5: -50568140786592552
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_50: 2459923111481538903
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_51: -4777766082566514184
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_52: 8875673293289127827
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_53: -529687788824760479
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_54: 5006623222303000059
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_55: -5769198439990641835
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_56: -8337134049283369182
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_57: 8228498601171042181
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_58: -4757731827768320154
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_59: 719225172664323942
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_6: 6469153168478988502
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_60: 7008051402664948157
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_61: -4849509101884381843
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_62: -958959712784309263
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_63: -3709809653918707855
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_64: -5585449167481409199
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_65: 1396391520356959595
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_66: 7412548859415944942
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_67: 7184285781126334183
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_68: 2879424761534481674
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_69: 2581847268559740432
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_7: -8070968200178718554
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_70: 6393031561411537406
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_71: 2596524615427999255
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_72: -4772725933288149111
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_73: -1072476454832282619
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_74: 8523242862166769389
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_75: 6214784441857861112
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_76: -6793091851016759262
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_77: -3042142139094638149
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_78: 6976967146611644371
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_79: 3708657375285492499
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_8: 2033390218765130710
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_80: 7736995165436684081
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_81: 988952425390685660
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_82: 2754246776256644242
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_83: 1018542676759027121
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_84: -4822897777990411027
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_85: -6806643170036871927
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_86: -2990385299828277009
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_87: -5139490497586281239
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_88: 2953766825302461649
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_89: 7585217464578470123
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_9: -4603592355516161105
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_90: 8505324539538781324
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_91: -213203569221344363
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_92: -3154595216231118594
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_93: -7488739817418574197
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_94: -7084235416134222192
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_95: 6024698104811488743
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_96: -445434416042915801
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_97: -3910878986939145612
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_98: -4381348443812902380
+      PC _ Computer - The Way Home_ Pixel Roguelike - Enemies - Final Boss_99: 7336195532881850441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

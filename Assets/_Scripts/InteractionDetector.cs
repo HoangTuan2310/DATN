@@ -9,7 +9,7 @@ public class InteractionDetector : MonoBehaviour
 
     private void Awake() 
     { 
-        playerInput = Object.FindFirstObjectByType<PlayerInput>(); 
+        playerInput = FindFirstObjectByType<PlayerInput>(); 
     }
     void Start()
     {

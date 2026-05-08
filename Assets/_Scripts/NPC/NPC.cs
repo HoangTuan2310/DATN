@@ -9,7 +9,11 @@ public class NPC : MonoBehaviour, IInteractable
     private DialogueController dialogueUI;
     private int dialogueIndex;
     private bool isTyping, isDialogueActive;
+
     [SerializeField] private DialogueAudio dialogueAudio;
+
+    private enum RequirementState { NotStarted, InProgress, Completed }
+    private RequirementState requirementSate = RequirementState.NotStarted;
 
     private void Start()
     {
@@ -18,26 +22,58 @@ public class NPC : MonoBehaviour, IInteractable
 
     public bool CanInteract()
     {
-        return !isDialogueActive;
+        Debug.Log(requirementSate);
+        return true;
     }
 
     public void Interact()
     {
-        if (!isDialogueActive)
-            StartDialogue();
-        else
+        if (dialogueData == null) return;
+
+        if (isDialogueActive)
             NextLine();
+        else
+            StartDialogue();
     }
 
 
     void StartDialogue()
     {
+        SyncRequirementState();
+
+        if (requirementSate == RequirementState.NotStarted)
+        {
+            dialogueIndex = 0;
+        }
+        else if (requirementSate == RequirementState.InProgress)
+        {
+            dialogueIndex = dialogueData.requirementInProgressIndex;
+        }
+        else if (requirementSate == RequirementState.Completed)
+        {
+            dialogueIndex = dialogueData.requirementCompletedIndex;
+        }
+        
         isDialogueActive = true;
-        dialogueIndex = 0;
         dialogueUI.SetNPCInfo(dialogueData.npcName, dialogueData.npcPortrait);
         dialogueUI.ShowDialogueUI(true);
 
         DisplayCurrentLine();
+    }
+
+    private void SyncRequirementState()
+    {
+        if (dialogueData.requirement == null) return;
+
+        string requirementID = dialogueData.requirement.requirementID;
+        if (RequirementController.Instance.IsRequirementActive(requirementID))
+        {
+            requirementSate = RequirementState.InProgress;
+        }
+        else
+        {
+            requirementSate = RequirementState.NotStarted;
+        }
     }
 
     void NextLine()
@@ -122,12 +158,18 @@ public class NPC : MonoBehaviour, IInteractable
         for (int i = 0; i < choice.choices.Length; i++) 
         {
             int nextIndex = choice.nextDialogueIndexes[i];
-            dialogueUI.CreateChoiceButton(choice.choices[i], () => ChooseOption(nextIndex));
+            bool givesRequirement = choice.givesRequirement[i];
+            dialogueUI.CreateChoiceButton(choice.choices[i], () => ChooseOption(nextIndex, givesRequirement));
         }
     }
 
-    void ChooseOption(int nextIndex)
+    void ChooseOption(int nextIndex, bool givesRequirement)
     {
+        if (givesRequirement)
+        {
+            RequirementController.Instance.Accept(dialogueData.requirement);
+            requirementSate = RequirementState.InProgress;
+        }
         dialogueIndex = nextIndex;
         dialogueUI.ClearChoices();
         DisplayCurrentLine();
@@ -141,6 +183,8 @@ public class NPC : MonoBehaviour, IInteractable
 
     public void EndDialogue()
     {
+        Debug.Log("END");
+
         StopAllCoroutines();
         dialogueAudio?.StopTypingSound();
         isDialogueActive = false;

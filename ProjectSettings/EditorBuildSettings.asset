@@ -13,6 +13,9 @@ EditorBuildSettings:
     guid: 187c6adec53c7de4d8cf09435b5775fd
   - enabled: 1
     path: Assets/Scenes/RoomContent.unity
+    guid: 2e20c086eb5188d4e9e459eef9c13bf7
+  - enabled: 1
+    path: Assets/Scenes/BossRoom.unity
     guid: d4c110ea10cf3d942ba9f9b3abb75546
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
