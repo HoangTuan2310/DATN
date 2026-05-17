@@ -22,8 +22,9 @@ MonoBehaviour:
   - "H\u1EB9n g\u1EB7p l\u1EA1i!"
   - "Ch\u01B0a \u0111\u1EE7 t\xECm th\xEAm \u0111i"
   - "Tuy\u1EC7t v\u1EDDi \u0111\xE2y l\xE0 ph\u1EA7n th\u01B0\u1EDFng c\u1EE7a b\u1EA1n."
-  autoProgressLines: 01000000000000
-  endDialogueLines: 00000101010101
+  - "H\u1EB9n g\u1EB7p l\u1EA1i"
+  autoProgressLines: 01000000000100
+  endDialogueLines: 00000101010001
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   voiceSound: {fileID: 8300000, guid: 228ed010e66ee244abb34c215cd0fa20, type: 3}

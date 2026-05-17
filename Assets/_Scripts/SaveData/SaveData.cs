@@ -6,4 +6,6 @@ public class SaveData
 {
     public Vector3 playPosition;
     public List<InventorySaveData> inventorySaveData;
+    public List<RequirementProgress> requirementProgressData;
+    public List<string> handinRequirementIDs;
 }

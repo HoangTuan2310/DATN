@@ -19,7 +19,7 @@ public class HealthUI : MonoBehaviour
         for (int i = 0; i < hearts.Length; i++)
         {
             hearts[i].sprite = i < currentHealth ? fullHeart : emptyHeart;
-            hearts[i].enabled = i < maxHealth;
+            //hearts[i].enabled = i < maxHealth;
         }
     }
 
@@ -34,8 +34,6 @@ public void NotifyPlayerDied()
             hearts[i].sprite = emptyHeart;
         playHealth = null;
     }
-
-
 
 void Awake()
     {

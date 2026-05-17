@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using TMPro;
 using UnityEngine;
@@ -66,7 +67,11 @@ public class NPC : MonoBehaviour, IInteractable
         if (dialogueData.requirement == null) return;
 
         string requirementID = dialogueData.requirement.requirementID;
-        if (RequirementController.Instance.IsRequirementActive(requirementID))
+        if(RequirementController.Instance.IsRequirementCompleted(requirementID) || RequirementController.Instance.IsRequirementHandedIn(requirementID))
+        {
+            requirementSate = RequirementState.Completed;
+        }
+        else if (RequirementController.Instance.IsRequirementActive(requirementID))
         {
             requirementSate = RequirementState.InProgress;
         }
@@ -78,7 +83,6 @@ public class NPC : MonoBehaviour, IInteractable
 
     void NextLine()
     {
-        // If still typing, skip to end of current line first
         if (isTyping)
         {
             StopAllCoroutines();
@@ -183,12 +187,19 @@ public class NPC : MonoBehaviour, IInteractable
 
     public void EndDialogue()
     {
-        Debug.Log("END");
-
+        if (requirementSate == RequirementState.Completed && !RequirementController.Instance.IsRequirementHandedIn(dialogueData.requirement.requirementID))
+        {
+            HandleRequirementCompletion(dialogueData.requirement);
+        }
         StopAllCoroutines();
         dialogueAudio?.StopTypingSound();
         isDialogueActive = false;
         dialogueUI.SetDialogueText("");
         dialogueUI.ShowDialogueUI(false);
+    }
+
+    void HandleRequirementCompletion(Requirement requirement)
+    {
+        RequirementController.Instance.HandInRequirement(requirement.requirementID);
     }
 }

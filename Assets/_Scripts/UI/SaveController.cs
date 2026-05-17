@@ -17,7 +17,9 @@ public class SaveController : MonoBehaviour
         SaveData saveData = new SaveData
         {
             playPosition = GameObject.FindGameObjectWithTag("Player").transform.position,
-            inventorySaveData = inventoryController.GetInventoryItems()
+            inventorySaveData = inventoryController.GetInventoryItems(),
+            requirementProgressData = RequirementController.Instance.activateRequirements,
+            handinRequirementIDs = RequirementController.Instance.handinRequirementIDs
         };
         File.WriteAllText(saveLocation, JsonUtility.ToJson(saveData));
     }
@@ -29,6 +31,9 @@ public class SaveController : MonoBehaviour
             SaveData saveData = JsonUtility.FromJson<SaveData>(File.ReadAllText(saveLocation));
             GameObject.FindGameObjectWithTag("Player").transform.position = saveData.playPosition;
             inventoryController.SetInventoryItems(saveData.inventorySaveData);
+
+            RequirementController.Instance.LoadRequirementProgress(saveData.requirementProgressData);
+            RequirementController.Instance.handinRequirementIDs = saveData.handinRequirementIDs;
         }
         else
         {
