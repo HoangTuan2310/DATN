@@ -21,6 +21,13 @@ public class AgentMover : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if (PauseController.IsGamePaused)
+        {
+            rb2d.linearVelocity = Vector2.zero;
+            currentSpeed = 0;
+            return;
+        }
+
         if (MovementInput.magnitude > 0 && currentSpeed >= 0)
         {
             oldMovementInput = MovementInput;
@@ -32,8 +39,5 @@ public class AgentMover : MonoBehaviour
         }
         currentSpeed = Mathf.Clamp(currentSpeed, 0, maxSpeed);
         rb2d.linearVelocity = oldMovementInput * currentSpeed;
-
     }
-
-
 }

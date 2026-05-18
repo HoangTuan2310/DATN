@@ -28,14 +28,14 @@ public class HealthUI : MonoBehaviour
         playHealth = health;
     }
 
-public void NotifyPlayerDied()
+    public void NotifyPlayerDied()
     {
         for (int i = 0; i < hearts.Length; i++)
             hearts[i].sprite = emptyHeart;
         playHealth = null;
     }
 
-void Awake()
+    void Awake()
     {
         if (hearts == null || hearts.Length == 0)
         {

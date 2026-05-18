@@ -937,7 +937,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: NewAssembly::SceneTransitionManager
   mainMenuSceneName: MainScene
-  nextFloorSceneName: RoomContent
+  nextFloorSceneName: BossRoom
 --- !u!1 &1366396016
 GameObject:
   m_ObjectHideFlags: 0

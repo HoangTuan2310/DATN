@@ -8,4 +8,6 @@ public class SaveData
     public List<InventorySaveData> inventorySaveData;
     public List<RequirementProgress> requirementProgressData;
     public List<string> handinRequirementIDs;
+    public float volume;
+    public bool isMuted;
 }

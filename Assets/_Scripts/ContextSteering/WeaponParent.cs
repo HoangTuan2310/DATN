@@ -9,7 +9,8 @@ public class WeaponParent : MonoBehaviour
     public Vector2 PointerPosition { get; set; }
 
     public Animator animator;
-    public float delay = 0.3f;
+    public float delay = 0.3f; 
+    public int damage = 1;
     private bool attackBlocked;
 
     public bool IsAttacking { get; private set; }
@@ -71,17 +72,16 @@ public class WeaponParent : MonoBehaviour
         Gizmos.DrawWireSphere(position, radius);
     }
 
-    public void DetectColliders()
+public void DetectColliders()
     {
-        foreach (Collider2D collider in Physics2D.OverlapCircleAll(circleOrigin.position,radius))
+        foreach (Collider2D collider in Physics2D.OverlapCircleAll(circleOrigin.position, radius))
         {
             if (collider.isTrigger == false)
                 continue;
-            //Debug.Log(collider.name);
             Health health;
-            if(health = collider.GetComponent<Health>())
+            if (health = collider.GetComponent<Health>())
             {
-                health.GetHit(1, transform.parent.gameObject);
+                health.GetHit(damage, transform.parent.gameObject);
             }
         }
     }

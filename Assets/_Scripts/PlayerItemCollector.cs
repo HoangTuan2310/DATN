@@ -2,10 +2,8 @@ using UnityEngine;
 
 public class PlayerItemCollector : MonoBehaviour
 {
-    private InventoryController inventoryController;
     void Start()
     {
-        inventoryController = Object.FindFirstObjectByType<InventoryController>();
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -17,7 +15,7 @@ public class PlayerItemCollector : MonoBehaviour
             ItemInventory item = collision.GetComponent<ItemInventory>();
             if (item != null)
             {
-                bool itemAdded = inventoryController.AddItem(collision.gameObject);
+                bool itemAdded = InventoryController.Instance.AddItem(collision.gameObject);
                 if (itemAdded)
                 {
                     item.PickUp();

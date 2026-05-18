@@ -46,8 +46,11 @@ public void GetHit(int amount, GameObject sender)
         else
         {
             currentHealth = 0;
-            OnDeathWithReference?.Invoke(sender);
             isDead = true;
+
+            GetComponent<EnemyDrop>()?.DropLoot();
+
+            OnDeathWithReference?.Invoke(sender);
 
             if (CompareTag("Player"))
             {
