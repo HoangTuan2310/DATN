@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fac9a31dbbd70da4ead921ed65bf40ff, type: 3}
+  m_Name: NPC Health
+  m_EditorClassIdentifier: NewAssembly::NPCDialogue
+  npcName: Kiro
+  npcPortrait: {fileID: -5970397975801286741, guid: a2467b6042cdaee49b7e898c02ad0cf9, type: 3}
+  dialogueLines:
+  - "Xin ch\xE0o t\xF4i l\xE0 m\u1ED9t ph\xF9 th\u1EE7y"
+  - "B\u1EA1n c\xF3 mu\u1ED1n 1 b\xECnh thu\u1ED1c \u0111\u1EC3 m\u1EA1nh h\u01A1n
+    kh\xF4ng?"
+  - "B\u1EA1n c\u1EA7n c\xF3 ...."
+  - "H\u1EB9n g\u1EB7p l\u1EA1i!"
+  - "Ch\u01B0a \u0111\u1EE7 t\xECm th\xEAm \u0111i"
+  - "Tuy\u1EC7t v\u1EDDi \u0111\xE2y l\xE0 ph\u1EA7n th\u01B0\u1EDFng c\u1EE7a b\u1EA1n."
+  - "H\u1EB9n g\u1EB7p l\u1EA1i"
+  autoProgressLines: 01000000000100
+  endDialogueLines: 00000101010001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 228ed010e66ee244abb34c215cd0fa20, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 1
+    choices:
+    - "C\xF3"
+    - "Kh\xF4ng"
+    nextDialogueIndexes: 0200000003000000
+    givesRequirement: 0100
+  requirementInProgressIndex: 4
+  requirementCompletedIndex: 5
+  requirement: {fileID: 11400000, guid: 3100fcdda1057374d81ccb5c58b93823, type: 2}
